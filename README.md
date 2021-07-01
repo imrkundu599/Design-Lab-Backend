@@ -1,9 +1,12 @@
 # Interest-Calculation-System-For-Retail-Bank-Back-End
 
-Before Running the project 
-Go to src->main->resources->application.properties->
+# Before Running the project 
 
-Change the spring.datasource.url="..." project path according to your machine
+Go to 
+# src->main->resources->application.properties->
+
+Change 
+# spring.datasource.url="..." project path according to your machine
 
 ## Project setup & run
 ```

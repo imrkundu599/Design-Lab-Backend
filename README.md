@@ -9,7 +9,7 @@ Change
 # spring.datasource.url="..." project path according to your machine
 
 ## Project setup & run
-```
-mvnw spring-boot:run
-```
+
+# mvnw spring-boot:run
+
 # Design-Lab-Backend
